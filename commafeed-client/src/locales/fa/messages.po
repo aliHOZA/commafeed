@@ -36,7 +36,7 @@ msgstr "<0>به یک حساب نیاز دارید؟</0><1>ثبت نام کنید
 #: src/pages/app/AboutPage.tsx
 #: src/components/header/ProfileMenu.tsx
 msgid "About"
-msgstr "در مورد"
+msgstr "درباره"
 
 #: src/pages/admin/AdminUsersPage.tsx
 msgid "Actions"
@@ -48,7 +48,7 @@ msgstr "اضافه کنید"
 
 #: src/pages/app/AddPage.tsx
 msgid "Add category"
-msgstr "اضافه کردن دسته"
+msgstr "افزودن دسته"
 
 #: src/pages/admin/AdminUsersPage.tsx
 msgid "Add user"
@@ -69,7 +69,7 @@ msgstr "همه"
 #: src/components/settings/DisplaySettings.tsx
 #: src/components/settings/DisplaySettings.tsx
 msgid "Always"
-msgstr ""
+msgstr "همیشه"
 
 #: src/pages/auth/PasswordRecoveryPage.tsx
 msgid "An email has been sent if this address was registered. Check your inbox."
@@ -85,7 +85,7 @@ msgstr "خوراک را تجزیه و تحلیل کنید"
 
 #: src/components/AnnouncementDialog.tsx
 msgid "Announcement"
-msgstr ""
+msgstr "اعلامیه‌ها"
 
 #: src/components/settings/ProfileSettings.tsx
 msgid "API key"
@@ -133,15 +133,15 @@ msgstr "بازگشت برای ورود به سیستم"
 
 #: src/components/KeyboardShortcutsHelp.tsx
 msgid "Browser extension required for Chrome"
-msgstr ""
+msgstr "برای کروم نیاز به به افزونه دارد"
 
 #: src/pages/app/AboutPage.tsx
 msgid "Browser extention"
-msgstr ""
+msgstr "افزونه مرورگر"
 
 #: src/components/settings/DisplaySettings.tsx
 msgid "Browser tab"
-msgstr ""
+msgstr "زبانه مرورگر"
 
 #: src/pages/app/TagDetailsPage.tsx
 #: src/pages/app/FeedDetailsPage.tsx
@@ -165,7 +165,7 @@ msgstr "لغو"
 #: src/components/content/add/AddCategory.tsx
 #: src/components/content/add/AddCategory.tsx
 msgid "Category"
-msgstr "مقوله"
+msgstr "دسته"
 
 #: src/components/settings/ProfileSettings.tsx
 msgid "Changing password will generate a new API key"
@@ -177,7 +177,7 @@ msgstr "بررسی کنید که خوراک کار می کند"
 
 #: src/pages/app/Layout.tsx
 msgid "Close menu"
-msgstr ""
+msgstr "منو را ببند"
 
 #: src/components/KeyboardShortcutsHelp.tsx
 msgid "Cmd"
@@ -185,7 +185,7 @@ msgstr ""
 
 #: src/pages/app/AboutPage.tsx
 msgid "CommaFeed browser extension version {browserExtensionVersion}."
-msgstr ""
+msgstr "نسخه افزونه کمافید مرورگر"
 
 #: src/components/settings/ProfileSettings.tsx
 msgid "CommaFeed is compatible with the Fever API. Use the following URL in your Fever-compatible mobile client. Login with your username and your <0>API key</0>."
@@ -953,7 +953,7 @@ msgstr "CommaFeed را با حساب آزمایشی امتحان کنید: دم�
 
 #: src/pages/WelcomePage.tsx
 msgid "Try the demo!"
-msgstr ""
+msgstr "دمو را آزمایش کنید"
 
 #: src/components/header/Header.tsx
 msgid "Unread"
@@ -963,7 +963,7 @@ msgstr "خوانده نشده"
 #: src/components/content/FeedEntryContextMenu.tsx
 #: src/components/content/header/Star.tsx
 msgid "Unstar"
-msgstr ""
+msgstr "حذف ستاره"
 
 #: src/pages/app/FeedDetailsPage.tsx
 #: src/pages/app/FeedDetailsPage.tsx
